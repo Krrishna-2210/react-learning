@@ -11,4 +11,4 @@ This is a React-based web application deployed live using Netlify. The project i
 🚀 Live Deployment – Manually deployed via Netlify for quick project hosting and sharing.
 
 # 🔗 Live Demo:
-<a href="https://gilded-cranachan-592dbe.netlify.app/about/">Demo Link</a>
+<a href="https://gilded-cranachan-592dbe.netlify.app/">Demo Link</a>
